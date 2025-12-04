@@ -1,5 +1,3 @@
--- emenemdash.lua
-
 local replacements = { "–", "—", "−" }
 
 local input_dashes = {
