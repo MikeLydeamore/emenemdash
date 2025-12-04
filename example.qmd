@@ -1,0 +1,16 @@
+---
+title: "Emenemdash Example"
+filters:
+  - emenemdash
+---
+
+## Heading
+
+This filter adds formatting to heading text. Let's add in a dash - wow look at it
+
+```{r}
+#| echo: true
+#| eval: false
+
+1+1-2
+```
