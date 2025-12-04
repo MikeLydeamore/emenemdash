@@ -1,4 +1,4 @@
-local replacements = { "–", "—", "−" }
+local replacements = { "–", "—", "−", "\u{2011}"}
 
 local input_dashes = {
   "-",   -- ASCII hyphen-minus

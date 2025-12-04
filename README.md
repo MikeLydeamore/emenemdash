@@ -1,6 +1,6 @@
 # Emenemdash Extension For Quarto
 
-Having arguments about what kind of dash to use? This extension solves it.
+Having arguments about what kind of dash to use? This extension solves it. Replaces every dash you can think of with either a minus sign, em-dash or en-dash. And occasionally a non-breaking space.
 
 ## Installing
 
